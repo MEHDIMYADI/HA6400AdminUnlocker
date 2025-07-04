@@ -53,7 +53,14 @@
 ## 📷 نمایی از رابط کاربری
 
 > برنامه دارای رابطی ساده با دکمه‌های کاربردی، نوار پیام، و مرورگر داخلی است که صفحه وب مودم را نمایش می‌دهد.
+### Screenshot 1
+[![Screenshot 1](Screenshot/Screenshot%201.png)](Screenshots/Screenshot%201.png)
 
+### Screenshot 2
+[![Screenshot 2](Screenshot/Screenshot%202.png)](Screenshots/Screenshot%202.png)
+
+### Screenshot 3
+[![Screenshot 3](Screenshot/Screenshot%203.png)](Screenshots/Screenshot%203.png)
 ---
 
 ## ⚠️ هشدارها
